@@ -2,7 +2,7 @@
 from tkinter import *
 
 chunk_tax = 0
-Interest_Rate = 0
+Interest_Rate = 0#guhjgjifjijfijjf
 #defing a function as add number
 def Income_tax():
     global chunk_tax
