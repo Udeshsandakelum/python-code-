@@ -1,2 +1,2 @@
-#This repository  has python code
-**push and commit
+This repositery was created by udesh
+
