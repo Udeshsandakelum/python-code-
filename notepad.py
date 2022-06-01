@@ -132,3 +132,4 @@ def __copy(self):
  
 def __paste(self):
     self.__thisTextArea.event_generate("<<Paste>>")
+#udeshsandakelum
